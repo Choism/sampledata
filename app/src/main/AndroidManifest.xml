@@ -19,7 +19,12 @@
             </intent-filter>
         </activity>
         <activity android:name=".ExternalActivity" />
-        <activity android:name=".SharedPreferenceActivity"></activity>
+        <activity android:name=".SharedPreferenceActivity" />
+        <activity android:name=".ContactsActivity" />
+        <activity android:name=".AddressAddActivity" />
+        <activity android:name=".AddressActivity" />
+        <activity android:name=".LoaderActivity" />
+        <activity android:name=".ImageViewActivity"></activity>
     </application>
 
 </manifest>
